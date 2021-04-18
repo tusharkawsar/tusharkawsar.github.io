@@ -20,7 +20,7 @@ export default function Home() {
                     <img src={cdnImage("naveen-da-profile.png", false, "")} />
                   </div>
                   <h1>Hi,</h1>
-                  <h1>I'm Naveen DA</h1>
+                  <h1>I'm Tushar Kawsar</h1>
                   <p className="info">
                     I develop an application with high concern about design and
                     UX, sometimes I do an over-engineering process for doing a
