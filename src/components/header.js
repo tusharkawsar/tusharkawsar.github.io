@@ -11,9 +11,9 @@ const Header = (props) => {
   return (
     <>
       <header>
-        <div className="logo">
+        {/* <div className="logo">
         <Link href="/"><img src="/naveenda-logo.svg" /></Link>
-        </div>
+        </div> */}
         <ul className="links">
           <li className={router.pathname == "/" ? "active" : ""}>
             <Link href="/">Portfolio</Link>
