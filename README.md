@@ -1,2 +1,1 @@
-# naveenda.github.io
-Please visit <https://naveenda.github.io>
+Tweak of the personal website template of @naveenda 
